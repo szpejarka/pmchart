@@ -4,7 +4,7 @@
     <button @click="getData()">Refresh</button>
   </div>
 </template>
-
+ 
 <script>
   import LineChart from '../components/chartcomp.js'
   import axios from 'axios'
